@@ -9,7 +9,7 @@ R, java 웹크롤링 기법을 사용
 
 
 
-*R 서버 사용 주의사항
+R 서버 사용 주의사항
 1. Rserve 라이브러리 다운로드
 2. cmd에서 R 실행
 3-1. library(Rserve)
